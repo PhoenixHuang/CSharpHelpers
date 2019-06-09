@@ -4,7 +4,7 @@ this is a test title
 
 * [FOREWORD](#foreword)
 * [STRINGS](#strings)
- * [Trim leading and trailing white-space from string](#Trim leading and trailing white-space from string)
+ * [Trim leading and trailing white-space from string](#Trim-leading-and-trailing-white-space-from-string)
 
 # FOREWORD
 
