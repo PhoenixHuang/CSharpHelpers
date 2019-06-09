@@ -1,23 +1,21 @@
-this is a test title
-====
-# 这个代码:
+## 这个代码:
 ~~~
 * [FOREWORD](#foreword)
 * [STRINGS](#strings)
     * [Trim leading and trailing white-space from string](#Trim-leading-and-trailing-white-space-from-string)
 ~~~
 
-# 会产生如下效果:
+## 会产生如下效果:
 
 * [FOREWORD](#foreword)
 * [STRINGS](#strings)
     * [Trim leading and trailing white-space from string](#Trim-leading-and-trailing-white-space-from-string)
 
-# 通过这个
+## 通过这个
 ~~~
 # FOREWORD
 ~~~
-# 产生本地超链接
+## 产生本地超链接
 # FOREWORD
 
 A collection of pure `bash` alternatives to external processes and programs. The `bash` scripting language is more powerful than people realise and most tasks can be accomplished without depending on external programs.
